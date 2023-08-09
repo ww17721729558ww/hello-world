@@ -1,0 +1,4 @@
+#1.����������
+spring:
+  profiles:
+    active: qa
